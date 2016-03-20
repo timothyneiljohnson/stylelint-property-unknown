@@ -7,7 +7,7 @@ This rule will cause stylelint to warn you whenever an unknown property is used.
 ## Installation
 
 ```
-npm install stylelint-unknown-property
+npm install stylelint-property-unknown
 ```
 
 This plugin is compatible with v5.0.1+.
