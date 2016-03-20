@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-property-unknown",
+  "version": "0.1.0",
+  "description": "A stylelint custom rule to catch usage of unknown properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyneiljohnson/stylelint-property-unknown.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "css",
+    "linter"
+  ],
+  "author": "Tim Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timothyneiljohnson/stylelint-property-unknown/issues"
+  },
+  "homepage": "https://github.com/timothyneiljohnson/stylelint-property-unknown#readme",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "stylelint": ">=3.0.2",
+    "stylelint-rule-tester": "^0.6.1"
+  }
+}
