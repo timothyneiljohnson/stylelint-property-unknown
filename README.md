@@ -1,5 +1,7 @@
 # stylelint-property-unknown
 
+[![Build Status](https://travis-ci.org/timothyneiljohnson/stylelint-property-unknown.svg)](https://travis-ci.org/timothyneiljohnson/stylelint-property-unknown)
+
 A [stylelint](https://github.com/stylelint/stylelint) custom rule to catch usage of unknown properties.
 
 This rule will cause stylelint to warn you whenever an unknown property is used.
