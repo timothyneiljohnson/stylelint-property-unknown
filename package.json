@@ -1,6 +1,6 @@
 {
   "name": "stylelint-property-unknown",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A stylelint custom rule to catch usage of unknown properties",
   "main": "index.js",
   "scripts": {
