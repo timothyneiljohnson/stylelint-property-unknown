@@ -59,6 +59,6 @@ As follows:
   ],
   "rules": {
     "property-unknown": true
-  },
+  }
 };
 ```
