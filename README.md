@@ -16,10 +16,6 @@ This plugin is compatible with v5.0.1+.
 
 ## Details
 
-Preprocessers like Sass, Less, and Stylus have nesting. Nesting can be enabled via PostCSS with [postcss-nested](https://github.com/postcss/postcss-nested) or [postcss-nesting](https://github.com/jonathantneal/postcss-nesting).
-
-Example:
-
 ```css
 a { /* OK */
   margin-bottom: 0
