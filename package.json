@@ -1,6 +1,6 @@
 {
   "name": "stylelint-property-unknown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A stylelint custom rule to catch usage of unknown properties",
   "main": "index.js",
   "scripts": {
@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/timothyneiljohnson/stylelint-property-unknown#readme",
   "devDependencies": {
+    "stylelint-rule-tester": "^0.6.1",
     "tape": "^4.2.2"
   },
   "dependencies": {
     "object-assign": "^4.0.1",
-    "stylelint": ">=3.0.2",
-    "stylelint-rule-tester": "^0.6.1"
+    "stylelint": ">=3.0.2"
   }
 }
