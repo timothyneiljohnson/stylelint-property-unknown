@@ -1,6 +1,6 @@
 const assign = require('object-assign');
 const stylelint = require('stylelint');
-const ruleName = 'property-unknown';
+const ruleName = 'plugin/property-unknown';
 const knownProperties = require('./data/knownProperties');
 const messages = stylelint.utils.ruleMessages(ruleName, {
   rejected: 'Property is unknown',
