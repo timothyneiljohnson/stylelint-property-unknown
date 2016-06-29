@@ -54,7 +54,7 @@ As follows:
     "stylelint-property-unknown"
   ],
   "rules": {
-    "property-unknown": true
+    "plugin/property-unknown": true
   }
 };
 ```
